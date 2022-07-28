@@ -1,6 +1,6 @@
 # nextflow_tutorial
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sateeshperi/nextflow_tutorial.git)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ftabaro/nextflow_tutorial.git)
 
 * **The GitPod comes with Nextflow, Conda and Docker pre-installed**
 
