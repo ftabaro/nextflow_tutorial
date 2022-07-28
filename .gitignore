@@ -1,0 +1,6 @@
+**.nextflow*
+**work
+data/ref_genome
+data/trimmed_fastq
+data/untrimmed_fastq
+resuts
